@@ -1,0 +1,41 @@
+{
+    "groupsToArchive": [
+        "...@g.us",
+    ],
+
+    "spamToArchive": [
+        "...@c.us"
+        ],
+
+    "dailyCobNumber": [
+        "...@c.us"
+    ],
+
+    "dailyCobMessage": [
+        "Opa! Conseguiu lá? PIX: "
+    ],
+
+    "cronSchedules": [
+      "05 9 * * *",
+      "22 12 * * *",
+      "25 15 * * *"
+    ],
+
+    "cronSchedulesPeople": [
+        "40 18 * * *"
+      ],
+  
+    "dailyCobJoaoNumber": [
+        "...@c.us"
+    ],
+
+    "dailyCobJoao": [
+        "Bom dia!\..."
+    ],
+
+    "dailyCobBrunoNumber": [
+        "...@g.us"
+    ],
+
+    
+}

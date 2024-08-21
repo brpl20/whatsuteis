@@ -1,0 +1,20 @@
+# Arquivos e pastas a serem ignorados pelo Git
+.env 
+
+# Ignorar a pasta media
+/media/
+
+# Ignorar a pasta local
+/local/
+
+# Ignorar a pasta professional
+/professional/
+
+# Ignorar a pasta .wwebjs_cache
+/.wwebjs_cache/
+
+# Ignorar a pasta __pycache__
+/__pycache__/
+
+# Mac
+.DS_Store
